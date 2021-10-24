@@ -1,0 +1,11 @@
+*{
+    margin: 20px;
+    background-color: bisque;
+}
+form{
+    background-color:red;
+    width: 400px;
+    height:auto;
+    box-shadow: 5 10 90px black;
+    padding: 10px;
+}
